@@ -1,0 +1,5 @@
+INFO:tests.conftest:Attempting login with invalid credentials: username=incorrect_username, password=qa_automation_password
+INFO:tests.conftest:Attempting login with invalid credentials: username=qa.ajax.app.automation@gmail.com, password=incorrect_password
+INFO:tests.conftest:Attempting login with invalid credentials: username=incorrect_username, password=incorrect_password
+INFO:tests.conftest:Logging in with valid credentials
+INFO:tests.conftest:Allowing location tracking
